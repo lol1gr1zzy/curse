@@ -1,0 +1,1 @@
+Server=(localdb)\mssqllocaldb;DataBase=SystemOfLianearAlgebraicEquations;Trusted_Connection=True;

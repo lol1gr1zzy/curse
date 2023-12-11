@@ -1,0 +1,5 @@
+E:\Projects\Development\freelance\JacobiSLAESolver\Release\JacobiSLAESolver.pdb
+E:\Projects\Development\freelance\JacobiSLAESolver\Release\x64\pdfium.dll
+E:\Projects\Development\freelance\JacobiSLAESolver\Release\libHarfBuzzSharp.dll
+E:\Projects\Development\freelance\JacobiSLAESolver\Release\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Development\freelance\JacobiSLAESolver\Release\JacobiSLAESolver.exe
